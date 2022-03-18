@@ -3,4 +3,4 @@
 # Projetos-Senai
 Repositorio Senai
 Alteração 13:12
-Incluído pastas JS 13:38   
+Incluídos pastas JS 13:38   
